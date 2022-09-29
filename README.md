@@ -1,2 +1,2 @@
 My first readme
-new change from githud
+new change from github
